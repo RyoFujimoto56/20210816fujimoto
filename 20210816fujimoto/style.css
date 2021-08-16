@@ -1,0 +1,47 @@
+.head{
+    position: relative;
+    margin: 20px;
+    color: #000080;
+}
+.titlle{
+    font-size: 24px;
+    font-weight: bold;
+    position: absolute;
+}
+.link{
+    text-align: right;
+}
+li{
+    display:inline; 
+    padding:0 10px;
+    font-weight: bold;
+}
+.main{
+    position: relative;
+    margin-top: 50px;
+}
+.photo {
+    margin: 0 0 0 auto;
+    display: block;
+    width: 50%;
+    height: 450px;
+    position: absolute;
+    top: 80px;
+    right: 0%;
+}
+.main2{
+    position: absolute;
+    top: 350px;
+}
+.maintittle{
+    font-size: 60px;
+    font-weight: lighter;
+    font-family: 'Courier New', "游明朝体", monospace;
+}
+.box{
+    background-color:#000080;
+    display: block;
+    height: 200px;
+    width: 1200px;
+    margin: 0%;
+}
